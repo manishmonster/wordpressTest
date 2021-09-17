@@ -1,0 +1,1 @@
+Please check for in Project/wp-json/w1/v1/collections to see rest api output
